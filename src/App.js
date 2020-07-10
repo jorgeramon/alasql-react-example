@@ -56,7 +56,7 @@ class App extends React.Component {
 
     return (
       <main className="container">
-        <h1 className="mt-4">TODO List</h1>
+        <h1 className="mt-4">TODO List App</h1>
         <div className="row mt-4">
           <form className="form-inline">
             <div className="form-group mx-sm-3 mb-2">
